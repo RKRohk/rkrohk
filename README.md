@@ -15,7 +15,7 @@
   
 ### Currently Learning
 
-- Next.JS
-- Golang
+- GoLang
+- React Native
 
 [![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rkrohk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
